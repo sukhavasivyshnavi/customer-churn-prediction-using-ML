@@ -51,7 +51,13 @@ The model successfully predicts customer churn with high accuracy, allowing busi
 ## How to Run
 
 1. Clone this repository
+   git clone https://github.com/sukhavasivyshnavi/customer-churn-prediction-using-ML.git cd customer-churn-prediction-using-ML
 2. Install required packages:
+   pip install pandas numpy seaborn matplotlib scikit-learn
+3. Open Jupyter Notebook:
+   jupyter notebook Customer_Churn_Prediction.ipynb
+4. Run all cells to view preprocessing, EDA, and model results.
+
 
 ## Author
 
