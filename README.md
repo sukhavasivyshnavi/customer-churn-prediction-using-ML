@@ -52,3 +52,8 @@ The model successfully predicts customer churn with high accuracy, allowing busi
 
 1. Clone this repository
 2. Install required packages:
+
+## Author
+
+S. Vyshnavi  
+Email:sukhavasivyshnavi17@gmail.com
